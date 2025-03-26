@@ -25,10 +25,10 @@
   <a href="mehedi.hasanhulknabil@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="youtube.com/@nocktowl1" target="_blank">
+  <a href="https://www.youtube.com/@nocktowl1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="kedin.com/in/mehedi-hasan-nabil/" target="_blank">
+  <a href="https://www.linkedin.com/in/mehedi-hasan-nabil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="NOCKTOWL#9948" target="_blank">
