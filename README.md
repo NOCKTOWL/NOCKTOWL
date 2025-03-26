@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hello World! This is Mehedi Hasan Nabil aka Nocktowl. I am currently an undergrad student who is heavily invested in programming and web development. Have a look around my profile and thanks a bunch for paying me a visit!</h3>
+<h3 align="left">Hello World! This is Mehedi Hasan Nabil aka Nocktowl. I am a recent graduate who is heavily invested in programming and web development. Have a look around my profile and thanks a bunch for paying me a visit!</h3>
 
 ###
 
